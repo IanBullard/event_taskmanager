@@ -3,7 +3,7 @@ Event / TaskManager
 
 A version of GrandMaster's event and task systems (http://www.grandmaster.nu/blog/?page_id=261) with the dependency on Boost removed.  A C++11 compiler is required, tested on a Mac with clang.
 
-I received permission to put this code up on GitHub from GrandMaster under an MIT license.  All attributions should be credited to GM.  Both systems are part of GrandMaser's project, (overdriveassault)[https://code.google.com/p/overdriveassault/] but in much different form.  
+I received permission to put this code up on GitHub from GrandMaster under an MIT license.  All attributions should be credited to GM.  Both systems are part of GrandMaser's project, [overdriveassault](https://code.google.com/p/overdriveassault/) but in much different form.  I suggest looking at the changes he's made to the systems.
 
 If you like this code, I suggest you read 
 
